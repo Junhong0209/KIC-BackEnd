@@ -1,0 +1,8 @@
+# env file
+.env
+
+# idea file
+.idea
+
+# pycache file
+__pycache__
